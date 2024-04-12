@@ -13,8 +13,6 @@
 - [Contact](#contact)
 - [More](#more)
 
---- 
-
 <a name='about'></a>
 ## About
 Hi! I'm **Kane**. I'm a software developer based in the US. My work is focused on building engaging & memorable experiences for the web while advocating for *accessibility*, *affordability*, & *equity*.

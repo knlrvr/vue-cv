@@ -1,6 +1,5 @@
 # Kane Lariviere &mdash; CV
 
----
 ## Table of Contents
 - [About](#about)
 - [Recent Projects](#recent-projects)

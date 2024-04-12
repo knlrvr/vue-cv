@@ -41,16 +41,6 @@ A portfolio template inspired by Bartosz Jarocki's Next.js/shadcn CV.
 My personal portfolio, rebuilt in 2024. Very nice. Please sign the guestbook!    
 [Live Demo](https://knlrvr.dev) | [Code](https://github.com/knlrvr/portfolio-2024)
 
-Click the button below to view my full GitHub & explore more projects!
-::button-link
----
-external: true
-href: https://github.com/knlrvr
-icon: simple-icons:github
----
-knlrvr
-:: 
-
 <a name='experience'></a>
 ## Experience
 - Software Developer | **KNLRVR** | *Remote (US)*

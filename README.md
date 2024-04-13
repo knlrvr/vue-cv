@@ -1,3 +1,10 @@
+<h2 align="center">Vue CV</h2>
+
+## Description
+This is my first project in Vue, cloned from the [Nuxt Content Wind template](https://github.com/Atinux/content-wind) just to poke around. 
+
+---
+
 # Kane Lariviere &mdash; CV
 
 ## Table of Contents

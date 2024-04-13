@@ -1,7 +1,7 @@
 <h2 align="center">Vue CV</h2>
 
 ## Description
-This is my first project in Vue, cloned from the [Nuxt Content Wind template](https://github.com/Atinux/content-wind) just to poke around. 
+This is my first project in Vue, cloned from the [Nuxt Content Wind template](https://github.com/Atinux/content-wind) just to poke around. Contents of the page below since it's just Markdown! 
 
 ---
 
